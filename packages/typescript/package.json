@@ -1,5 +1,5 @@
 {
-  "name": "docparse",
+  "name": "@mawlaia/docparse",
   "version": "0.1.0",
   "description": "LLM-powered document extraction SDK",
   "main": "dist/index.js",
