@@ -3,7 +3,7 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
-name = "docparse"
+name = "mawlaia-docparse"
 version = "0.1.0"
 description = "LLM-powered document extraction SDK"
 authors = ["Mawlaia <dev@mawlaia.com>"]
