@@ -29,3 +29,8 @@ export {
   CONTRACT_SCHEMA,
   REGISTRY,
 } from "./schemas";
+
+export { AsyncJobClient } from "./async_client";
+export type { AsyncJobClientOptions, DocparseJob } from "./async_client";
+
+export const VERSION = "0.3.0";
